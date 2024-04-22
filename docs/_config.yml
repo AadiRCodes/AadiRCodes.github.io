@@ -23,7 +23,7 @@ email: aadi.rane.07@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is meant to house my notes for different classes, 
   as well as different cool things I encounter that I feel people will enjoy.
-# baseurl: "/math-notes" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aadircodes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  AadiRCodes

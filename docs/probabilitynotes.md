@@ -19,4 +19,4 @@ I firmly believe learning is a process, not a product. You won't get everything 
 
 Buckle up, get excited. You're about to embark on a wild journey through the world of uncertainty.
 
-In general, we will use $\mathbb{P}$ to denote probability.
+In general, we will use \\(\mathbb{P})\\ to denote probability.
